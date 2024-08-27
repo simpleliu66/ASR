@@ -44,9 +44,6 @@ When the scene recognition request (shown in the left top of the window) is **Ye
 https://github.com/user-attachments/assets/aa68176b-8fdc-4a4b-a69c-0011f17afe45
 
 ### Demo 2
-https://github.com/user-attachments/assets/a26676af-44cc-44f9-8843-42ebbb8129e6
-
-### Demo 3
 https://github.com/user-attachments/assets/95fc9f9c-8103-4909-928e-cb2270e3cf47
 
 ## Real-word Robot Demonstration
