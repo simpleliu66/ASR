@@ -19,4 +19,9 @@ Email: shaopeng.liu@polyu.edu.hk
 # Demonstration
 
 ## Lane-change Performance
+task 1
+https://github.com/user-attachments/assets/df514b1d-82d7-4b66-acda-f30d6ea252c3
+
+
+task 6
 https://github.com/user-attachments/assets/2db0aae6-c766-4dc2-a549-40e5cc92cc62
