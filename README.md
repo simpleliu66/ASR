@@ -1,9 +1,8 @@
-# ASR
+# Behavior Cloning-based Active Scene Recognition for Domestic Robots
 
-# 题目
-This repository contains the illustrative diagrams and demonstration videos of the proposed approach called **题目**. 
+This repository includes the demonstration videos of our proposed method called **Behavior Cloning-based Active Scene Recognition for Domestic Robots**. 
 
-:hourglass_flowing_sand: We will publish the source code once the paper is accepted. 
+:hourglass_flowing_sand: We will publish the source code and data once the paper is accepted. 
 
 :beer: Prior to this, we are more than happy to discuss the details of our algorithm if you are interested. Please feel free to contact us without any hesitation.
 
