@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/2db0aae6-c766-4dc2-a549-40e5cc92cc62
 ## Using ASR during robot exporation
 This is 
 ### Demo 1
-https://github.com/user-attachments/assets/12546d9e-bf4b-49d7-9fac-e60362caf379
+https://github.com/user-attachments/assets/aa68176b-8fdc-4a4b-a69c-0011f17afe45
 
 ### Demo 2
 https://github.com/user-attachments/assets/a26676af-44cc-44f9-8843-42ebbb8129e6
