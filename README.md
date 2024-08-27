@@ -17,7 +17,7 @@ Email: shaopeng.liu@polyu.edu.hk
 
 # Demonstration
 ## Some demos of scene recognition tasks in [**Habitat**](https://aihabitat.org/datasets/hm3d/).
-This is 
+The left window shows the robot's real-time observations, and the right window displays the process and result of active scene recognition.
 
 ### task 1
 https://github.com/user-attachments/assets/df514b1d-82d7-4b66-acda-f30d6ea252c3
@@ -37,8 +37,9 @@ https://github.com/user-attachments/assets/4191c29b-437c-4ff8-8838-a780a80a1867
 ### task 6
 https://github.com/user-attachments/assets/2db0aae6-c766-4dc2-a549-40e5cc92cc62
 
-## Using ASR during robot exporation
-This is 
+## Using ASR during robot random exporation
+When the scene recognition request (shown in the left top of the window) is **Yes** during the random exporation, the robot needs to recognize the scene using our method. 
+
 ### Demo 1
 https://github.com/user-attachments/assets/aa68176b-8fdc-4a4b-a69c-0011f17afe45
 
