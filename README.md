@@ -16,7 +16,7 @@ Email: shaopeng.liu@polyu.edu.hk
 
 
 # Demonstration
-## SR task in 仿真环境
+## Some demos of scene recognition tasks in [**Habitat**](https://aihabitat.org/datasets/hm3d/).
 This is 
 
 ### task 1
