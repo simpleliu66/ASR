@@ -11,7 +11,7 @@ Email: shaopeng.liu@polyu.edu.hk
 # Framework
 
 <p align="center">
-<img src="https://github.com/simpleliu66/ASR/blob/main/img/framework.jpg" height= "450" width="900">
+<img src="https://github.com/simpleliu66/ASR/blob/main/img/framework.jpg" height= "800" width="1000">
 </p>
 
 
