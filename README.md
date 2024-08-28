@@ -47,6 +47,6 @@ https://github.com/user-attachments/assets/aa68176b-8fdc-4a4b-a69c-0011f17afe45
 https://github.com/user-attachments/assets/95fc9f9c-8103-4909-928e-cb2270e3cf47
 
 ## Real-word Robot Demonstration
-The proposed method deployed on a Turtlebot 4 to recognize scene in a real-word domestic environment.
+The proposed method deployed on a Turtlebot 4 to recognize scene in a real-word domestic environment (kitchen).
 ###  
 https://github.com/user-attachments/assets/c738dcbe-a5ab-489e-aaaf-3eaab641fa34
