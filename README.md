@@ -4,9 +4,6 @@ This repository includes the demonstration videos of our proposed method called 
 
 :hourglass_flowing_sand: We will publish the source code and data once the paper is accepted. 
 
-:beer: Prior to this, we are more than happy to discuss the details of our algorithm if you are interested. Please feel free to contact us without any hesitation.
-
-Email: shaopeng.liu@polyu.edu.hk
 
 # Framework
 
